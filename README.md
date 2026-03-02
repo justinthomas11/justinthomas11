@@ -1,34 +1,45 @@
-#Hi, I'm Justin 👋
+# Hi, I'm Justin 👋
 
-Aspiring Data Scientist with a strong foundation in Mathematics and Backend Systems.
+**Aspiring Data Scientist** with a strong foundation in **Mathematics** and **Backend Systems**.  
 I build data-driven systems focused on scalability, analytics, and real-world impact.
 
-#🚀 Currently Working On
+---
 
-Advanced Machine Learning & Econometrics
+## 🚀 Currently Working On
 
-Scalable Backend Systems
+- Advanced Machine Learning & Econometrics  
+- Scalable Backend Systems  
+- Real-time Data Pipelines  
+- Applied Predictive Modeling  
 
-Real-time Data Pipelines
+---
 
-Applied Predictive Modeling
+## 🛠 Tech Stack
 
-#🛠 Tech Stack
+**Languages:**  
+Python | Java | SQL  
 
-Languages: Python | Java | SQL
+**Data Science:**  
+Scikit-learn | Pandas | NumPy | PySpark | Streamlit  
 
-Data Science: Scikit-learn | Pandas | NumPy | PySpark | Streamlit
+**Backend:**  
+Spring Boot | PostgreSQL | REST APIs | Docker  
 
-Backend: Spring Boot | PostgreSQL | REST APIs | Docker
+**Analytics:**  
+EDA | Feature Engineering | Forecasting | Time Series  
 
-Analytics: EDA | Feature Engineering | Forecasting | Time Series
+---
 
-#📌 Featured Projects
+## 📌 Featured Projects
 
-Real-Time Stock Price Dashboard – Kafka, PySpark, S3, Streamlit
+- **Real-Time Stock Price Dashboard**  
+  Kafka | PySpark | S3 | Streamlit  
 
-Dynamic Price Elasticity & Demand Forecasting – Econometric modeling
+- **Dynamic Price Elasticity & Demand Forecasting**  
+  Econometric modeling  
 
-Football Analytics – Elo Forecasting Engine – ML + MLOps
+- **Football Analytics – Elo Forecasting Engine**  
+  Machine Learning + MLOps  
 
-Customer Churn Prediction – End-to-end ML pipeline
+- **Customer Churn Prediction**  
+  End-to-end ML pipeline  
