@@ -1,57 +1,34 @@
-Hi, I'm Justin 👋
+#Hi, I'm Justin 👋
 
-🎯 Aspiring Data Scientist with a strong foundation in Mathematics and Backend Systems.
-I build real-world, data-driven systems focused on scalability, analytics, and practical impact.
+Aspiring Data Scientist with a strong foundation in Mathematics and Backend Systems.
+I build data-driven systems focused on scalability, analytics, and real-world impact.
 
-🚀 What I’m Working On
+#🚀 Currently Working On
 
-📊 Advanced Machine Learning & Econometrics
+Advanced Machine Learning & Econometrics
 
-⚙️ Scalable Backend Systems
+Scalable Backend Systems
 
-📈 Real-time Data Pipelines
+Real-time Data Pipelines
 
-🧠 Applied Predictive Modeling
+Applied Predictive Modeling
 
-🛠 Tech Stack
+#🛠 Tech Stack
 
-Languages:
-Python | Java | SQL
+Languages: Python | Java | SQL
 
-Data Science & ML:
-Scikit-learn | Pandas | NumPy | PySpark | Streamlit
+Data Science: Scikit-learn | Pandas | NumPy | PySpark | Streamlit
 
-Backend & Systems:
-Spring Boot | PostgreSQL | REST APIs | Docker
+Backend: Spring Boot | PostgreSQL | REST APIs | Docker
 
-Data & Analytics:
-EDA | Feature Engineering | Model Evaluation | Forecasting | Time Series
+Analytics: EDA | Feature Engineering | Forecasting | Time Series
 
-📌 Featured Projects
+#📌 Featured Projects
 
-🔹 Real-Time Stock Price Dashboard
-Streams live stock data using Kafka & PySpark, stores in S3, and visualizes analytics in Streamlit.
+Real-Time Stock Price Dashboard – Kafka, PySpark, S3, Streamlit
 
-🔹 Dynamic Price Elasticity & Demand Forecasting
-Models regime-dependent demand behavior using econometric techniques.
+Dynamic Price Elasticity & Demand Forecasting – Econometric modeling
 
-🔹 Football Analytics – Elo Forecasting Engine (with MLOps)
-Predictive system using Random Forest and deployment-ready workflows.
+Football Analytics – Elo Forecasting Engine – ML + MLOps
 
-🔹 Customer Churn Prediction System
-End-to-end ML pipeline for churn analysis with model evaluation and insights.
-
-📚 Currently Focused On
-
-Advanced Statistics & Econometrics
-
-Production ML Systems
-
-System Design for Data Applications
-
-MLOps & Deployment
-
-📈 Long-Term Vision
-
-Building intelligent systems where strong mathematical foundations meet scalable engineering.
--->
+Customer Churn Prediction – End-to-end ML pipeline
