@@ -16,16 +16,16 @@ real-time pipelines to deployed predictive models.
 
 ## 🚀 Featured Projects
 
-**[Real-Time Stock Market Pipeline](github link)**  
+**[Real-Time Stock Market Pipeline] https://github.com/justinthomas11/real-time-stock-market-pipeline**  
 End-to-end streaming pipeline · Kafka · PySpark · AWS S3 · Streamlit dashboard
 
-**[Dynamic Price Elasticity & Demand Forecasting](github link)**  
+**[Dynamic Price Elasticity & Demand Forecasting] https://github.com/justinthomas11/dynamic-price-elasticity-forecasting**  
 Regime-aware forecasting · R²=0.82 · +9.4% revenue uplift identified · Tableau
 
-**[Football Analytics & Elo Forecasting Engine](github link)**  
+**[Football Analytics & Elo Forecasting Engine] https://github.com/justinthomas11/football-analytics-elo-forecasting**  
 54% match prediction accuracy · 30+ versioned models · MLflow registry
 
-**[Customer Churn Prediction](github link)**  
+**[Customer Churn Prediction] https://github.com/justinthomas11/customer-churn-prediction**  
 End-to-end ML pipeline · FastAPI deployment · Docker
 
 ---
