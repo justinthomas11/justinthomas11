@@ -1,45 +1,34 @@
 # Hi, I'm Justin 👋
 
-**Aspiring Data Scientist** with a strong foundation in **Mathematics** and **Backend Systems**.  
-I build data-driven systems focused on scalability, analytics, and real-world impact.
-
----
-
-## 🚀 Currently Working On
-
-- Advanced Machine Learning & Econometrics  
-- Scalable Backend Systems  
-- Real-time Data Pipelines  
-- Applied Predictive Modeling  
+Data Scientist building end-to-end ML systems — from 
+real-time pipelines to deployed predictive models.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:**  
-Python | Java | SQL  
-
-**Data Science:**  
-Scikit-learn | Pandas | NumPy | PySpark | Streamlit  
-
-**Backend:**  
-Spring Boot | PostgreSQL | REST APIs | Docker  
-
-**Analytics:**  
-EDA | Feature Engineering | Forecasting | Time Series  
+**Core:** Python · SQL · PySpark  
+**ML:** Scikit-learn · XGBoost · MLflow · Statsmodels  
+**Engineering:** Apache Kafka · Docker · FastAPI · AWS S3  
+**Visualization:** Tableau · Streamlit · Plotly  
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-- **Real-Time Stock Price Dashboard**  
-  Kafka | PySpark | S3 | Streamlit  
+**[Real-Time Stock Market Pipeline](github link)**  
+End-to-end streaming pipeline · Kafka · PySpark · AWS S3 · Streamlit dashboard
 
-- **Dynamic Price Elasticity & Demand Forecasting**  
-  Econometric modeling  
+**[Dynamic Price Elasticity & Demand Forecasting](github link)**  
+Regime-aware forecasting · R²=0.82 · +9.4% revenue uplift identified · Tableau
 
-- **Football Analytics – Elo Forecasting Engine**  
-  Machine Learning + MLOps  
+**[Football Analytics & Elo Forecasting Engine](github link)**  
+54% match prediction accuracy · 30+ versioned models · MLflow registry
 
-- **Customer Churn Prediction**  
-  End-to-end ML pipeline  
+**[Customer Churn Prediction](github link)**  
+End-to-end ML pipeline · FastAPI deployment · Docker
+
+---
+
+## 📫 Reach Me
+justinsthomas2907@gmail.com
