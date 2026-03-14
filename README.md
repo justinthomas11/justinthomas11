@@ -23,7 +23,7 @@ End-to-end streaming pipeline · Kafka · PySpark · AWS S3 · Streamlit dashboa
 Regime-aware forecasting · R²=0.82 · +9.4% revenue uplift identified · Tableau
 
 **[Football Analytics & Elo Forecasting Engine] https://github.com/justinthomas11/football-analytics-elo-forecasting**  
-54% match prediction accuracy · 30+ versioned models · MLflow registry
+60% match prediction accuracy · 30+ versioned models · MLflow registry
 
 **[Customer Churn Prediction] https://github.com/justinthomas11/customer-churn-prediction**  
 End-to-end ML pipeline · FastAPI deployment · Docker
