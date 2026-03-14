@@ -1,4 +1,9 @@
+<div align="center">
+
 ## Hi, I'm Justin 👋
+Data Scientist building end-to-end ML systems — from real-time pipelines to deployed predictive models.
+
+</div>
 
 Data Scientist building end-to-end ML systems — from 
 real-time pipelines to deployed predictive models.
