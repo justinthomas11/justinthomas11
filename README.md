@@ -1,34 +1,77 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Hi, I'm Justin 👋
-Data Scientist building end-to-end ML systems, from real-time pipelines to deployed predictive models.
+  <br>
 
+  <div id="user-content-toc">
+    <ul>
+      <summary><h1 style="display: inline-block">Hi 👋, I'm Justin</h1></summary>
+    </ul>
+  </div>
+
+  <p><b>Data Scientist building end-to-end ML systems, from real-time pipelines to deployed predictive models.</b></p>
 </div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justinthomas11/justinthomas11/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justinthomas11/justinthomas11/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/justinthomas11/justinthomas11/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br>
 
 ---
 
 ## 🛠 Tech Stack
 
-**Core:** Python · SQL · PySpark  
-**ML:** Scikit-learn · XGBoost · MLflow · Statsmodels  
-**Engineering:** Apache Kafka · Docker · FastAPI · AWS S3  
-**Visualization:** Tableau · Streamlit · Plotly  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,mysql,aws,docker,fastapi,linux,git,github,postman,scikit-learn,tensorflow,tableau,statsmodels&perline=14" />
+  </a>
+</p>
+
+* **Core:** Python · SQL · PySpark  
+* **ML:** Scikit-learn · XGBoost · MLflow · Statsmodels  
+* **Engineering:** Apache Kafka · Docker · FastAPI · AWS S3  
+* **Visualization:** Tableau · Streamlit · Plotly  
 
 ---
 
 ## 🚀 Featured Projects
 
-**[Real-Time Stock Market Pipeline] https://github.com/justinthomas11/real-time-stock-market-pipeline**  
-End-to-end streaming pipeline · Kafka · PySpark · AWS S3 · Streamlit dashboard
+* **[Real-Time Stock Market Pipeline](https://github.com/justinthomas11/real-time-stock-market-pipeline)** End-to-end streaming pipeline · Kafka · PySpark · AWS S3 · Streamlit dashboard
 
-**[Dynamic Price Elasticity & Demand Forecasting] https://github.com/justinthomas11/dynamic-price-elasticity-forecasting**  
-Regime-aware forecasting · R²=0.82 · +9.4% revenue uplift identified · Tableau
+* **[Dynamic Price Elasticity & Demand Forecasting](https://github.com/justinthomas11/dynamic-price-elasticity-forecasting)** Regime-aware forecasting · $R^2=0.82$ · $+9.4\%$ revenue uplift identified · Tableau
 
-**[Football Analytics & Elo Forecasting Engine] https://github.com/justinthomas11/football-analytics-elo-forecasting**  
-60% match prediction accuracy · 30+ versioned models · MLflow registry
+* **[Football Analytics & Elo Forecasting Engine](https://github.com/justinthomas11/football-analytics-elo-forecasting)** $60\%$ match prediction accuracy · $30+$ versioned models · MLflow registry
 
+---
+
+## 📊 GitHub Stats
+
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=justinthomas11&theme=dark&show_icons=true&count_private=true" />
+      <br><br>
+      <img title="🔥 Streak stats" alt="🔥 Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=justinthomas11&theme=dark&hide_border=false" /> 
+    </td>
+    <td width="50%" align="center">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=justinthomas11&theme=dark&hide_border=false&layout=compact"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📫 Reach Me
-justinsthomas2907@gmail.com
+📩 **Email:** [justinsthomas2907@gmail.com](mailto:justinsthomas2907@gmail.com)
+
+<div align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
