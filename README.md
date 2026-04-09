@@ -30,12 +30,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,aws,docker,fastapi,linux,git,github,postman,scikit-learn,tensorflow,tableau,statsmodels&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,kafka,pyspark,aws,docker,fastapi,sklearn,tensorflow,pytorch,fastai,mlflow,tableau,statsmodels&perline=14" />
   </a>
 </p>
 
 * **Core:** Python · SQL · PySpark  
-* **ML:** Scikit-learn · XGBoost · MLflow · Statsmodels  
+* **ML:** Scikit-learn · XGBoost · PyTorch · FastAI · MLflow · Statsmodels  
 * **Engineering:** Apache Kafka · Docker · FastAPI · AWS S3  
 * **Visualization:** Tableau · Streamlit · Plotly  
 
@@ -68,8 +68,16 @@
 
 ---
 
-## 📫 Reach Me
-📩 **Email:** [justinsthomas2907@gmail.com](mailto:justinsthomas2907@gmail.com)
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/jthom2956" target="blank">
+  <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+</a>
+<a href="mailto:justinsthomas2907@gmail.com" target="blank">
+  <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd46660-f8f4-4a25-96c2-094ee73297a7.png" alt="email" height="50" width="50" />
+</a>
+</p>
 
 <div align="center">
   <br>
