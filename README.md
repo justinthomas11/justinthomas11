@@ -72,7 +72,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jthom2956"><b>LinkedIn</b></a> • 
-  <a href="mailto:justinsthomas2907@gmail.com"><b>Email Me</b></a>
+  <a href="mailto:justinsthomas2907@gmail.com"><b>Email</b></a>
 </p>
 
 <div align="center">
