@@ -30,9 +30,17 @@
 
 ## 🛠 Tech Stack
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,mysql,kafka,spark,aws,docker,fastapi,sklearn,tensorflow,pytorch&perline=10" />
-</a>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" />
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="sql" />
+  <img src="https://img.icons8.com/color/48/000000/apache-kafka.png" alt="kafka" />
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="aws" />
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker" />
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="tensorflow" />
+  <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="pytorch" />
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-scikit-learn-a-free-software-machine-learning-library-for-the-python-programming-language-logo-color-tal-revivo.png" alt="scikit-learn" />
+  <img src="https://img.icons8.com/color/48/000000/tableau.png" alt="tableau" />
+</p>
 
 <br>
 
