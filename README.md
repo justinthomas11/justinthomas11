@@ -26,22 +26,28 @@
 
 ---
 
+<div align="center">
+
 ## 🛠 Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,kafka,spark,aws,docker,fastapi,sklearn,tensorflow,pytorch&perline=10" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,mysql,kafka,spark,aws,docker,fastapi,sklearn,tensorflow,pytorch&perline=10" />
+</a>
 
 * **Core:** Python · SQL · PySpark  
 * **ML:** Scikit-learn · XGBoost · PyTorch · FastAI · MLflow · Statsmodels  
 * **Engineering:** Apache Kafka · Docker · FastAPI · AWS S3  
 * **Visualization:** Tableau · Streamlit · Plotly  
 
+</div>
+
 ---
 
+<div align="center">
+
 ## 🚀 Featured Projects
+
+</div>
 
 * **[Real-Time Stock Market Pipeline](https://github.com/justinthomas11/real-time-stock-market-pipeline)** End-to-end streaming pipeline · Kafka · PySpark · AWS S3 · Streamlit dashboard
 
@@ -51,7 +57,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<br>
 
 <table align="center">
   <tr border="none">
@@ -68,14 +74,14 @@
 
 ---
 
+<div align="center">
+
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jthom2956"><b>LinkedIn</b></a> • 
-  <a href="mailto:justinsthomas2907@gmail.com"><b>Email</b></a>
-</p>
+<a href="https://www.linkedin.com/in/jthom2956"><b>LinkedIn</b></a> • 
+<a href="mailto:justinsthomas2907@gmail.com"><b>Email</b></a>
 
-<div align="center">
-  <br>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
