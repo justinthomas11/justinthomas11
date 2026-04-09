@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,kafka,aws,docker,fastapi,sklearn,tensorflow,pytorch,pyspark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,kafka,spark,aws,docker,fastapi,sklearn,tensorflow,pytorch&perline=10" />
   </a>
 </p>
 
@@ -71,12 +71,8 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jthom2956" target="_blank">
-  <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-</a>
-<a href="mailto:justinsthomas2907@gmail.com">
-  <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd46660-f8f4-4a25-96c2-094ee73297a7.png" alt="email" height="50" width="50" />
-</a>
+  <a href="https://www.linkedin.com/in/jthom2956"><b>LinkedIn</b></a> • 
+  <a href="mailto:justinsthomas2907@gmail.com"><b>Email Me</b></a>
 </p>
 
 <div align="center">
