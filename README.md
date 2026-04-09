@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,kafka,pyspark,aws,docker,fastapi,sklearn,tensorflow,pytorch,fastai,mlflow,tableau,statsmodels&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,kafka,pyspark,aws,docker,fastapi,sklearn,tensorflow,pytorch&perline=10" />
   </a>
 </p>
 
