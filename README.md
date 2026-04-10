@@ -75,7 +75,7 @@
 <table align="center">
   <tr border="none">
     <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=justinthomas11&theme=dark&show_icons=true&count_private=true&hide_border=false" />
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=justinthomas11&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_border=false" />
       <br><br>
       <img title="🔥 Streak stats" alt="🔥 Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=justinthomas11&theme=dark&hide_border=false" />
     </td>
