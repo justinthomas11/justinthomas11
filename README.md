@@ -64,9 +64,10 @@
 
 <br>
 
-**[Football Analytics & Elo Forecasting Engine](https://github.com/justinthomas11/football-analytics-elo-forecasting)**
-> 60% match prediction accuracy · 30+ versioned models tracked in MLflow registry · Elo-based dynamic rating system with rolling feature engineering
-> `Python` `Scikit-learn` `MLflow` `Pandas` `Plotly`
+**[FootballIQ: Elo & LLM Match Intelligence Engine](https://github.com/justinthomas11/footballiq-match-intelligence))**
+> End-to-end RAG pipeline predicting match outcomes via a calibrated XGBoost/Elo blend · Integrates live web scraping with Claude Sonnet to generate structured pre-match analysis · Deployed via Streamlit with MLflow tracking
+> `Python` `XGBoost` `Anthropic API (Claude)` `Streamlit` `Scikit-learn` `MLflow`
+
 
 ---
 
