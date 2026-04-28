@@ -35,12 +35,14 @@
 
 | Area | Tools |
 |---|---|
-| **Languages** | Python · SQL |
-| **ML & Modeling** | Scikit-learn · XGBoost · Statsmodels · MLflow |
+| **Languages** | Python (Pandas, Numpy) · SQL · R |
+| **ML & Modeling** | Scikit-learn · XGBoost · Statsmodels · MLflow · LightGBM |
+| **Gen AI & LLM** | Anthropic Claude API · LangChain · RAG · FAISS · HuggingFace · Prompt Engineering |
 | **Deep Learning** | PyTorch · TensorFlow |
-| **Data Engineering** | Apache Kafka · PySpark · AWS S3 |
+| **Data Engineering** | Apache Kafka · PySpark · AWS (S3, IAM, SageMaker, EC2) |
 | **Backend & Deployment** | FastAPI · Docker |
 | **Visualization** | Tableau · Streamlit · Plotly |
+| **Databases** | PostgresSQL · MySQL |
 
 </div>
 
